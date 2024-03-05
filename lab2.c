@@ -18,6 +18,7 @@ int main(){
 		i++;
 	}
 	printf("%d", i);
+	printf(" modificare facuta");
 	return 0;
 }
 
